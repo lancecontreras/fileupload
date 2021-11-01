@@ -1,0 +1,51 @@
+******************************
+******************************
+Raven Companion 3.00.01.05
+DeviceId: R38H704DQCM
+Time (UTC): 2021-10-22T04:04:37
+Time (local): 2021.10.22 00:04:37
+Process ID: 9621
+Log Path:  /storage/emulated/0/Android/data/com.addsys.ravenrc/files/Documents/Raven Companion-2021-10-22.log
+Android OS Info:
+  RELEASE.......8.0.0
+  BOARD.........msm8996
+  BOOTLOADER....G930VVRSBCTC1
+  BRAND.........Verizon
+  CPU_ABI.......arm64-v8a
+  CPU_ABI2......
+  DEVICE........heroqltevzw
+  DISPLAY.......R16NW.G930VVRSBCTC1
+  FINGERPRINT...Verizon/heroqltevzw/heroqltevzw:8.0.0/R16NW/G930VVRSBCTC1:user/release-keys
+  HARDWARE......qcom
+  HOST..........SWDH7010
+  ID............R16NW
+  MANUFACTURER..samsung
+  MODEL.........SM-G930V
+  PRODUCT.......heroqltevzw
+  TAGS..........release-keys
+  TYPE..........user
+  USER..........dpi
+10-22 24:17:01.311 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-22 24:17:01.319 9621 D V2-RavenConnectivity: "00635"
+10-22 24:17:01.320 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-22 24:17:01.320 9621 D V2-RavenConnectivity: NetInfo.isConnected - <true>
+10-22 24:17:01.321 9621 D V2-RavenConnectivity: Wifi SSID <00635>
+10-22 24:17:01.321 9621 D NetworkUtility: unbinding process to network
+10-22 24:17:01.332 9621 D NetworkUtility: binding process to Wifi network "00635"
+10-22 24:17:01.338 9621 D V2-RavenConnectivity: Broadcast Receiver - Connected
+10-22 11:48:14.163 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-22 11:48:14.175 9621 D V2-RavenConnectivity: "00635"
+10-22 11:48:14.177 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-22 11:48:14.178 9621 D V2-RavenConnectivity: NetInfo.isConnected - <true>
+10-22 11:48:14.178 9621 D V2-RavenConnectivity: Wifi SSID <00635>
+10-22 11:48:14.179 9621 D NetworkUtility: unbinding process to network
+10-22 11:48:14.182 9621 D NetworkUtility: binding process to Wifi network "00635"
+10-22 11:48:14.191 9621 D V2-RavenConnectivity: Broadcast Receiver - Connected
+10-22 23:19:27.578 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-22 23:19:27.593 9621 D V2-RavenConnectivity: "00635"
+10-22 23:19:27.595 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-22 23:19:27.598 9621 D V2-RavenConnectivity: NetInfo.isConnected - <true>
+10-22 23:19:27.599 9621 D V2-RavenConnectivity: Wifi SSID <00635>
+10-22 23:19:27.601 9621 D NetworkUtility: unbinding process to network
+10-22 23:19:27.604 9621 D NetworkUtility: binding process to Wifi network "00635"
+10-22 23:19:27.614 9621 D V2-RavenConnectivity: Broadcast Receiver - Connected

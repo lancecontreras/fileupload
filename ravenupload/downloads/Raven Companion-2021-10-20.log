@@ -1,0 +1,70 @@
+******************************
+******************************
+Raven Companion 3.00.01.05
+DeviceId: R38H704DQCM
+Time (UTC): 2021-10-20T04:00:00
+Time (local): 2021.10.20 00:00:00
+Process ID: 9621
+Log Path:  /storage/emulated/0/Android/data/com.addsys.ravenrc/files/Documents/Raven Companion-2021-10-20.log
+Android OS Info:
+  RELEASE.......8.0.0
+  BOARD.........msm8996
+  BOOTLOADER....G930VVRSBCTC1
+  BRAND.........Verizon
+  CPU_ABI.......arm64-v8a
+  CPU_ABI2......
+  DEVICE........heroqltevzw
+  DISPLAY.......R16NW.G930VVRSBCTC1
+  FINGERPRINT...Verizon/heroqltevzw/heroqltevzw:8.0.0/R16NW/G930VVRSBCTC1:user/release-keys
+  HARDWARE......qcom
+  HOST..........SWDH7010
+  ID............R16NW
+  MANUFACTURER..samsung
+  MODEL.........SM-G930V
+  PRODUCT.......heroqltevzw
+  TAGS..........release-keys
+  TYPE..........user
+  USER..........dpi
+10-20 06:45:59.557 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-20 06:45:59.570 9621 D V2-RavenConnectivity: "00635"
+10-20 06:45:59.571 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-20 06:45:59.572 9621 D V2-RavenConnectivity: NetInfo.isConnected - <true>
+10-20 06:45:59.573 9621 D V2-RavenConnectivity: Wifi SSID <00635>
+10-20 06:45:59.574 9621 D NetworkUtility: unbinding process to network
+10-20 06:45:59.578 9621 D NetworkUtility: binding process to Wifi network "00635"
+10-20 06:45:59.589 9621 D V2-RavenConnectivity: Broadcast Receiver - Connected
+10-20 10:53:07.913 9621 D OnFFSiteFragment: onResume()
+10-20 10:53:07.922 9621 D OnFFSiteFragment: onResume - calling setUI()
+10-20 10:53:07.922 9621 D OnFFSiteFragment: Entering setUI()
+10-20 10:53:07.948 9621 D OnFFSiteFragment: Setting connStatusItem status_host
+10-20 10:53:07.949 9621 D OnFFSiteFragment: Leaving setUI()
+10-20 10:53:08.128 9621 D CMS: Received NETWORK_STATE_CHANGED_ACTION
+10-20 10:53:08.131 12612 D CMS: Checking connection status
+10-20 10:53:08.132 12612 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-20 10:53:08.147 12612 D CMS: SSID:"00635"  Rssi(dBm):-42
+10-20 10:53:08.148 12612 D CMS: IP:10.67.247.173
+10-20 10:53:08.168 12612 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-20 10:53:08.172 12612 D SND: Sending VERIFY_APPLICATION_STATE
+10-20 10:53:08.174 12613 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-20 10:53:08.177 12613 D WIFI: SSID:"00635"  Signal:-42  IP:-1376304374
+10-20 10:53:08.179 12613 D WIFI: connectStatus: [API_RESPONSE_INVALID_TOKEN]  SSID: "00635"  Rssi: -42  myIp: 10.67.247.173  error: [Invalid session token]
+10-20 10:53:18.194 12612 D CMS: Server request timed out
+10-20 10:53:18.194 12612 D Globals: Broadcasting CONN_STATUS_CHANGED  (NO_API_RESPONSE)
+10-20 10:53:18.195 9621 D statusRcvr: Received CONN_STATUS_CHANGED
+10-20 10:53:18.195 12612 D CMS: connectStatus: [NO_API_RESPONSE]  SSID: "00635"  Rssi: -42  myIp: 10.67.247.173  error: [Server request timed out]
+10-20 10:53:18.196 9621 D OnFFSiteFragment: Entering setUI()
+10-20 10:53:18.220 9621 D OnFFSiteFragment: Setting connStatusItem status_network
+10-20 10:53:18.221 9621 D OnFFSiteFragment: Leaving setUI()
+10-20 10:53:18.288 9621 D RCV ERROR: Error: Timeout error.
+10-20 10:53:18.293 12742 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-20 10:53:18.300 12742 D WIFI: SSID:"00635"  Signal:-44  IP:-1376304374
+10-20 10:53:18.302 12742 D WIFI: connectStatus: [NO_API_RESPONSE]  SSID: "00635"  Rssi: -44  myIp: 10.67.247.173  error: [Error: Timeout error.]
+10-20 11:03:08.974 9621 D OnFFSiteFragment: onPause()
+10-20 18:17:12.764 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-20 18:17:12.789 9621 D V2-RavenConnectivity: "00635"
+10-20 18:17:12.790 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-20 18:17:12.791 9621 D V2-RavenConnectivity: NetInfo.isConnected - <true>
+10-20 18:17:12.791 9621 D V2-RavenConnectivity: Wifi SSID <00635>
+10-20 18:17:12.792 9621 D NetworkUtility: unbinding process to network
+10-20 18:17:12.797 9621 D NetworkUtility: binding process to Wifi network "00635"
+10-20 18:17:12.804 9621 D V2-RavenConnectivity: Broadcast Receiver - Connected

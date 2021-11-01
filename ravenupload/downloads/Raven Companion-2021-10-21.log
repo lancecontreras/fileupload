@@ -1,0 +1,239 @@
+******************************
+******************************
+Raven Companion 3.00.01.05
+DeviceId: R38H704DQCM
+Time (UTC): 2021-10-21T04:00:00
+Time (local): 2021.10.21 00:00:00
+Process ID: 9621
+Log Path:  /storage/emulated/0/Android/data/com.addsys.ravenrc/files/Documents/Raven Companion-2021-10-21.log
+Android OS Info:
+  RELEASE.......8.0.0
+  BOARD.........msm8996
+  BOOTLOADER....G930VVRSBCTC1
+  BRAND.........Verizon
+  CPU_ABI.......arm64-v8a
+  CPU_ABI2......
+  DEVICE........heroqltevzw
+  DISPLAY.......R16NW.G930VVRSBCTC1
+  FINGERPRINT...Verizon/heroqltevzw/heroqltevzw:8.0.0/R16NW/G930VVRSBCTC1:user/release-keys
+  HARDWARE......qcom
+  HOST..........SWDH7010
+  ID............R16NW
+  MANUFACTURER..samsung
+  MODEL.........SM-G930V
+  PRODUCT.......heroqltevzw
+  TAGS..........release-keys
+  TYPE..........user
+  USER..........dpi
+10-21 05:48:25.447 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 05:48:25.462 9621 D V2-RavenConnectivity: "00635"
+10-21 05:48:25.463 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 05:48:25.464 9621 D V2-RavenConnectivity: NetInfo.isConnected - <true>
+10-21 05:48:25.465 9621 D V2-RavenConnectivity: Wifi SSID <00635>
+10-21 05:48:25.465 9621 D NetworkUtility: unbinding process to network
+10-21 05:48:25.468 9621 D NetworkUtility: binding process to Wifi network "00635"
+10-21 05:48:25.477 9621 D V2-RavenConnectivity: Broadcast Receiver - Connected
+10-21 08:10:59.540 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 08:10:59.554 9621 D V2-RavenConnectivity: could not obtain the wifi name
+10-21 08:10:59.555 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 08:10:59.556 9621 D V2-RavenConnectivity: NetInfo.isConnected - <false>
+10-21 08:10:59.557 9621 D V2-RavenConnectivity: Wifi SSID <<unknown ssid>>
+10-21 08:10:59.560 9621 D V2-RavenConnectivity: Broadcast Receiver - Disconnected
+10-21 08:10:59.632 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 08:10:59.638 9621 D V2-RavenConnectivity: could not obtain the wifi name
+10-21 08:10:59.639 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 08:10:59.640 9621 D V2-RavenConnectivity: NetInfo.isConnected - <false>
+10-21 08:10:59.641 9621 D V2-RavenConnectivity: Wifi SSID <<unknown ssid>>
+10-21 08:10:59.641 9621 D V2-RavenConnectivity: Broadcast Receiver - Disconnected
+10-21 08:10:59.650 9823 D V2-RavenConnectivity: ConnectivityManager.NetworkCallback - onLost()
+10-21 08:10:59.654 9823 D V2-RavenConnectivity: ConnectivityManager.NetworkCallback - onLost() - Wifi lost
+10-21 08:11:01.357 9823 D V2-RavenConnectivity: ConnectivityManager.NetworkCallback - onAvailable()
+10-21 08:11:01.364 9823 D V2-RavenConnectivity: ConnectivityManager.NetworkCallback - onAvailable() - Cellular
+10-21 08:50:31.352 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 08:50:31.363 9621 D V2-RavenConnectivity: could not obtain the wifi name
+10-21 08:50:31.364 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 08:50:31.365 9621 D V2-RavenConnectivity: NetInfo.isConnected - <false>
+10-21 08:50:31.365 9621 D V2-RavenConnectivity: Wifi SSID <<unknown ssid>>
+10-21 08:50:31.366 9621 D V2-RavenConnectivity: Broadcast Receiver - Disconnected
+10-21 08:50:32.430 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 08:50:32.441 9621 D V2-RavenConnectivity: could not obtain the wifi name
+10-21 08:50:32.442 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 08:50:32.443 9621 D V2-RavenConnectivity: NetInfo.isConnected - <false>
+10-21 08:50:32.444 9621 D V2-RavenConnectivity: Wifi SSID <<unknown ssid>>
+10-21 08:50:32.451 9621 D V2-RavenConnectivity: Broadcast Receiver - Disconnected
+10-21 08:50:32.457 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 08:50:32.462 9621 D V2-RavenConnectivity: could not obtain the wifi name
+10-21 08:50:32.463 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 08:50:32.464 9621 D V2-RavenConnectivity: NetInfo.isConnected - <false>
+10-21 08:50:32.465 9621 D V2-RavenConnectivity: Wifi SSID <<unknown ssid>>
+10-21 08:50:32.466 9621 D V2-RavenConnectivity: Broadcast Receiver - Disconnected
+10-21 08:50:32.484 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 08:50:32.493 9621 D V2-RavenConnectivity: could not obtain the wifi name
+10-21 08:50:32.493 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 08:50:32.494 9621 D V2-RavenConnectivity: NetInfo.isConnected - <false>
+10-21 08:50:32.495 9621 D V2-RavenConnectivity: Wifi SSID <<unknown ssid>>
+10-21 08:50:32.496 9621 D V2-RavenConnectivity: Broadcast Receiver - Disconnected
+10-21 08:50:32.507 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 08:50:32.513 9621 D V2-RavenConnectivity: could not obtain the wifi name
+10-21 08:50:32.514 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 08:50:32.515 9621 D V2-RavenConnectivity: NetInfo.isConnected - <false>
+10-21 08:50:32.515 9621 D V2-RavenConnectivity: Wifi SSID <<unknown ssid>>
+10-21 08:50:32.516 9621 D V2-RavenConnectivity: Broadcast Receiver - Disconnected
+10-21 08:50:32.530 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 08:50:32.535 9621 D V2-RavenConnectivity: could not obtain the wifi name
+10-21 08:50:32.536 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 08:50:32.538 9621 D V2-RavenConnectivity: NetInfo.isConnected - <false>
+10-21 08:50:32.538 9621 D V2-RavenConnectivity: Wifi SSID <<unknown ssid>>
+10-21 08:50:32.539 9621 D V2-RavenConnectivity: Broadcast Receiver - Disconnected
+10-21 08:50:33.057 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 08:50:33.063 9621 D V2-RavenConnectivity: "ADD Staff"
+10-21 08:50:33.065 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 08:50:33.067 9621 D V2-RavenConnectivity: NetInfo.isConnected - <false>
+10-21 08:50:33.068 9621 D V2-RavenConnectivity: Wifi SSID <ADD Staff>
+10-21 08:50:33.069 9621 D V2-RavenConnectivity: Broadcast Receiver - Disconnected
+10-21 08:50:33.132 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 08:50:33.138 9621 D V2-RavenConnectivity: "ADD Staff"
+10-21 08:50:33.138 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 08:50:33.139 9621 D V2-RavenConnectivity: NetInfo.isConnected - <true>
+10-21 08:50:33.140 9621 D V2-RavenConnectivity: Wifi SSID <ADD Staff>
+10-21 08:50:33.140 9621 D NetworkUtility: unbinding process to network
+10-21 08:50:33.144 9621 D NetworkUtility: binding process to Wifi network "ADD Staff"
+10-21 08:50:33.168 9621 D V2-RavenConnectivity: Broadcast Receiver - Connected
+10-21 08:50:33.204 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 08:50:33.208 9621 D V2-RavenConnectivity: "ADD Staff"
+10-21 08:50:33.209 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 08:50:33.210 9621 D V2-RavenConnectivity: NetInfo.isConnected - <true>
+10-21 08:50:33.210 9621 D V2-RavenConnectivity: Wifi SSID <ADD Staff>
+10-21 08:50:33.211 9621 D NetworkUtility: unbinding process to network
+10-21 08:50:33.237 9621 D NetworkUtility: binding process to Wifi network "ADD Staff"
+10-21 08:50:33.246 9621 D V2-RavenConnectivity: Broadcast Receiver - Connected
+10-21 08:50:34.044 9823 D V2-RavenConnectivity: ConnectivityManager.NetworkCallback - onAvailable()
+10-21 08:50:34.071 9823 D NetworkUtility: unbinding process to network
+10-21 08:50:34.090 9823 D NetworkUtility: binding process to Wifi network "ADD Staff"
+10-21 08:50:34.118 9823 D V2-RavenConnectivity: ConnectivityManager.NetworkCallback - onAvailable() - Wifi
+10-21 12:26:32.803 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 12:26:32.813 9823 D V2-RavenConnectivity: ConnectivityManager.NetworkCallback - onLost()
+10-21 12:26:32.817 9621 D V2-RavenConnectivity: could not obtain the wifi name
+10-21 12:26:32.818 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 12:26:32.818 9621 D V2-RavenConnectivity: NetInfo.isConnected - <false>
+10-21 12:26:32.819 9621 D V2-RavenConnectivity: Wifi SSID <<unknown ssid>>
+10-21 12:26:32.820 9621 D V2-RavenConnectivity: Broadcast Receiver - Disconnected
+10-21 12:26:32.832 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 12:26:32.841 9621 D V2-RavenConnectivity: could not obtain the wifi name
+10-21 12:26:32.841 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 12:26:32.842 9621 D V2-RavenConnectivity: NetInfo.isConnected - <false>
+10-21 12:26:32.842 9621 D V2-RavenConnectivity: Wifi SSID <<unknown ssid>>
+10-21 12:26:32.842 9621 D V2-RavenConnectivity: Broadcast Receiver - Disconnected
+10-21 12:26:32.846 9823 D V2-RavenConnectivity: ConnectivityManager.NetworkCallback - onLost() - Wifi lost
+10-21 12:26:33.269 9823 D V2-RavenConnectivity: ConnectivityManager.NetworkCallback - onAvailable()
+10-21 12:26:33.273 9823 D V2-RavenConnectivity: ConnectivityManager.NetworkCallback - onAvailable() - Cellular
+10-21 12:45:08.791 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 12:45:08.797 9621 D V2-RavenConnectivity: could not obtain the wifi name
+10-21 12:45:08.798 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 12:45:08.799 9621 D V2-RavenConnectivity: NetInfo.isConnected - <false>
+10-21 12:45:08.801 9621 D V2-RavenConnectivity: Wifi SSID <<unknown ssid>>
+10-21 12:45:08.803 9621 D V2-RavenConnectivity: Broadcast Receiver - Disconnected
+10-21 12:45:09.236 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 12:45:09.239 9621 D V2-RavenConnectivity: could not obtain the wifi name
+10-21 12:45:09.240 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 12:45:09.241 9621 D V2-RavenConnectivity: NetInfo.isConnected - <false>
+10-21 12:45:09.244 9621 D V2-RavenConnectivity: Wifi SSID <<unknown ssid>>
+10-21 12:45:09.244 9621 D V2-RavenConnectivity: Broadcast Receiver - Disconnected
+10-21 12:45:09.256 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 12:45:09.259 9621 D V2-RavenConnectivity: could not obtain the wifi name
+10-21 12:45:09.260 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 12:45:09.262 9621 D V2-RavenConnectivity: NetInfo.isConnected - <false>
+10-21 12:45:09.263 9621 D V2-RavenConnectivity: Wifi SSID <<unknown ssid>>
+10-21 12:45:09.264 9621 D V2-RavenConnectivity: Broadcast Receiver - Disconnected
+10-21 12:45:09.272 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 12:45:09.275 9621 D V2-RavenConnectivity: could not obtain the wifi name
+10-21 12:45:09.276 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 12:45:09.277 9621 D V2-RavenConnectivity: NetInfo.isConnected - <false>
+10-21 12:45:09.280 9621 D V2-RavenConnectivity: Wifi SSID <<unknown ssid>>
+10-21 12:45:09.281 9621 D V2-RavenConnectivity: Broadcast Receiver - Disconnected
+10-21 12:45:13.025 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 12:45:13.028 9621 D V2-RavenConnectivity: could not obtain the wifi name
+10-21 12:45:13.029 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 12:45:13.029 9621 D V2-RavenConnectivity: NetInfo.isConnected - <false>
+10-21 12:45:13.030 9621 D V2-RavenConnectivity: Wifi SSID <<unknown ssid>>
+10-21 12:45:13.031 9621 D V2-RavenConnectivity: Broadcast Receiver - Disconnected
+10-21 12:45:13.548 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 12:45:13.552 9621 D V2-RavenConnectivity: could not obtain the wifi name
+10-21 12:45:13.553 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 12:45:13.554 9621 D V2-RavenConnectivity: NetInfo.isConnected - <false>
+10-21 12:45:13.555 9621 D V2-RavenConnectivity: Wifi SSID <<unknown ssid>>
+10-21 12:45:13.556 9621 D V2-RavenConnectivity: Broadcast Receiver - Disconnected
+10-21 12:45:13.714 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 12:45:13.718 9621 D V2-RavenConnectivity: could not obtain the wifi name
+10-21 12:45:13.719 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 12:45:13.719 9621 D V2-RavenConnectivity: NetInfo.isConnected - <false>
+10-21 12:45:13.720 9621 D V2-RavenConnectivity: Wifi SSID <<unknown ssid>>
+10-21 12:45:13.720 9621 D V2-RavenConnectivity: Broadcast Receiver - Disconnected
+10-21 12:45:13.733 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 12:45:13.735 9621 D V2-RavenConnectivity: could not obtain the wifi name
+10-21 12:45:13.736 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 12:45:13.736 9621 D V2-RavenConnectivity: NetInfo.isConnected - <false>
+10-21 12:45:13.737 9621 D V2-RavenConnectivity: Wifi SSID <<unknown ssid>>
+10-21 12:45:13.737 9621 D V2-RavenConnectivity: Broadcast Receiver - Disconnected
+10-21 12:45:17.636 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 12:45:17.644 9621 D V2-RavenConnectivity: could not obtain the wifi name
+10-21 12:45:17.648 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 12:45:17.649 9621 D V2-RavenConnectivity: NetInfo.isConnected - <false>
+10-21 12:45:17.653 9621 D V2-RavenConnectivity: Wifi SSID <<unknown ssid>>
+10-21 12:45:17.654 9621 D V2-RavenConnectivity: Broadcast Receiver - Disconnected
+10-21 12:45:18.110 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 12:45:18.114 9621 D V2-RavenConnectivity: could not obtain the wifi name
+10-21 12:45:18.115 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 12:45:18.116 9621 D V2-RavenConnectivity: NetInfo.isConnected - <false>
+10-21 12:45:18.117 9621 D V2-RavenConnectivity: Wifi SSID <<unknown ssid>>
+10-21 12:45:18.118 9621 D V2-RavenConnectivity: Broadcast Receiver - Disconnected
+10-21 12:45:18.127 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 12:45:18.131 9621 D V2-RavenConnectivity: could not obtain the wifi name
+10-21 12:45:18.133 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 12:45:18.133 9621 D V2-RavenConnectivity: NetInfo.isConnected - <false>
+10-21 12:45:18.134 9621 D V2-RavenConnectivity: Wifi SSID <<unknown ssid>>
+10-21 12:45:18.140 9621 D V2-RavenConnectivity: Broadcast Receiver - Disconnected
+10-21 12:45:18.168 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 12:45:18.172 9621 D V2-RavenConnectivity: could not obtain the wifi name
+10-21 12:45:18.173 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 12:45:18.173 9621 D V2-RavenConnectivity: NetInfo.isConnected - <false>
+10-21 12:45:18.174 9621 D V2-RavenConnectivity: Wifi SSID <<unknown ssid>>
+10-21 12:45:18.174 9621 D V2-RavenConnectivity: Broadcast Receiver - Disconnected
+10-21 12:45:18.182 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 12:45:18.185 9621 D V2-RavenConnectivity: could not obtain the wifi name
+10-21 12:45:18.185 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 12:45:18.186 9621 D V2-RavenConnectivity: NetInfo.isConnected - <false>
+10-21 12:45:18.187 9621 D V2-RavenConnectivity: Wifi SSID <<unknown ssid>>
+10-21 12:45:18.188 9621 D V2-RavenConnectivity: Broadcast Receiver - Disconnected
+10-21 12:45:18.197 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 12:45:18.202 9621 D V2-RavenConnectivity: could not obtain the wifi name
+10-21 12:45:18.203 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 12:45:18.203 9621 D V2-RavenConnectivity: NetInfo.isConnected - <false>
+10-21 12:45:18.204 9621 D V2-RavenConnectivity: Wifi SSID <<unknown ssid>>
+10-21 12:45:18.204 9621 D V2-RavenConnectivity: Broadcast Receiver - Disconnected
+10-21 12:45:48.616 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 12:45:48.625 9621 D V2-RavenConnectivity: "00635"
+10-21 12:45:48.628 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 12:45:48.630 9621 D V2-RavenConnectivity: NetInfo.isConnected - <false>
+10-21 12:45:48.631 9621 D V2-RavenConnectivity: Wifi SSID <00635>
+10-21 12:45:48.633 9621 D V2-RavenConnectivity: Broadcast Receiver - Disconnected
+10-21 12:45:48.685 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 12:45:48.699 9621 D V2-RavenConnectivity: "00635"
+10-21 12:45:48.700 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 12:45:48.700 9621 D V2-RavenConnectivity: NetInfo.isConnected - <true>
+10-21 12:45:48.701 9621 D V2-RavenConnectivity: Wifi SSID <00635>
+10-21 12:45:48.701 9621 D NetworkUtility: unbinding process to network
+10-21 12:45:48.710 9621 D NetworkUtility: binding process to Wifi network "00635"
+10-21 12:45:48.721 9621 D V2-RavenConnectivity: Broadcast Receiver - Connected
+10-21 12:45:48.836 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-21 12:45:48.856 9621 D V2-RavenConnectivity: "00635"
+10-21 12:45:48.857 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-21 12:45:48.858 9621 D V2-RavenConnectivity: NetInfo.isConnected - <true>
+10-21 12:45:48.858 9621 D V2-RavenConnectivity: Wifi SSID <00635>
+10-21 12:45:48.859 9621 D NetworkUtility: unbinding process to network
+10-21 12:45:48.903 9621 D NetworkUtility: binding process to Wifi network "00635"
+10-21 12:45:48.918 9621 D V2-RavenConnectivity: Broadcast Receiver - Connected
+10-21 12:45:49.744 9823 D V2-RavenConnectivity: ConnectivityManager.NetworkCallback - onAvailable()
+10-21 12:45:49.746 9823 D NetworkUtility: unbinding process to network
+10-21 12:45:49.752 9823 D NetworkUtility: binding process to Wifi network "00635"
+10-21 12:45:49.817 9823 D V2-RavenConnectivity: ConnectivityManager.NetworkCallback - onAvailable() - Wifi

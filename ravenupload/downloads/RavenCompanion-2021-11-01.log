@@ -1,0 +1,54 @@
+******************************
+******************************
+RavenCompanion 3.01.00.10
+DeviceId: R38H704DQCM
+Time (UTC): 2021-11-01T20:53:54
+Time (local): 2021.11.01 16:53:54
+Process ID: 20526
+Log Path:  /storage/emulated/0/Android/data/com.addsys.ravenrc/files/Documents/RavenCompanion-2021-11-01.log
+Android OS Info:
+  RELEASE.......8.0.0
+  BOARD.........msm8996
+  BOOTLOADER....G930VVRSBCTC1
+  BRAND.........Verizon
+  CPU_ABI.......arm64-v8a
+  CPU_ABI2......
+  DEVICE........heroqltevzw
+  DISPLAY.......R16NW.G930VVRSBCTC1
+  FINGERPRINT...Verizon/heroqltevzw/heroqltevzw:8.0.0/R16NW/G930VVRSBCTC1:user/release-keys
+  HARDWARE......qcom
+  HOST..........SWDH7010
+  ID............R16NW
+  MANUFACTURER..samsung
+  MODEL.........SM-G930V
+  PRODUCT.......heroqltevzw
+  TAGS..........release-keys
+  TYPE..........user
+  USER..........dpi
+11-01 16:53:57.104 20526 D MainFragment: onResume()
+11-01 16:53:57.109 20526 D MainFragment: onResume(): Was Just Created
+11-01 16:53:57.297 20526 D CMS: Received NETWORK_STATE_CHANGED_ACTION
+11-01 16:53:57.399 21081 D CMS: Checking connection status
+11-01 16:53:57.402 21081 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+11-01 16:53:57.406 21081 D NetworkUtility: Initializing Network Util
+11-01 16:53:57.408 21081 D NetworkUtility: binding process to wifi network
+11-01 16:53:57.476 21081 D NetworkUtility: isWifNetworkConnected <true>
+11-01 16:53:57.479 21081 D NetworkUtility: unbinding process to network
+11-01 16:53:57.515 21081 D NetworkUtility: binding process to Wifi network "ADD Staff"
+11-01 16:53:57.563 21081 D CMS: SSID:"ADD Staff"  Rssi(dBm):-57
+11-01 16:53:57.567 21081 D CMS: IP:10.3.14.39
+11-01 16:53:57.589 21081 W CMS: The connected wifi network, "ADD Staff", is not the configured network, 00635
+11-01 16:53:57.596 21081 D Globals: Broadcasting CONN_STATUS_CHANGED  (WIFI_OTHER_CONNECTED)
+11-01 16:53:57.615 21081 D CMS: connectStatus: [WIFI_OTHER_CONNECTED]  SSID: "ADD Staff"  Rssi: -57  myIp: 10.3.14.39
+11-01 16:53:57.911 20526 D connStatusRcvr: Received CONN_STATUS_CHANGED
+11-01 16:54:40.335 20526 D MainFragment: onPause()
+11-01 16:54:50.860 20526 D MainFragment: onResume()
+11-01 16:54:51.029 20526 D CMS: Received NETWORK_STATE_CHANGED_ACTION
+11-01 16:54:51.035 22132 D CMS: Checking connection status
+11-01 16:54:51.038 22132 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+11-01 16:54:51.046 22132 D CMS: SSID:"ADD Staff"  Rssi(dBm):-54
+11-01 16:54:51.053 22132 D CMS: IP:10.3.14.39
+11-01 16:54:51.059 22132 W CMS: The connected wifi network, "ADD Staff", is not the configured network, 00635
+11-01 16:54:51.064 22132 D CMS: connectStatus: [WIFI_OTHER_CONNECTED]  SSID: "ADD Staff"  Rssi: -54  myIp: 10.3.14.39
+11-01 16:54:52.865 20526 D LOG PATH: /storage/emulated/0/Android/data/com.addsys.ravenrc/files/Documents/RavenCompanion-2021-11-01.log
+11-01 16:54:52.924 20526 D MainFragment: onPause()

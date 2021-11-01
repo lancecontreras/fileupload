@@ -1,0 +1,754 @@
+******************************
+******************************
+Raven Companion 3.00.01.05
+DeviceId: R38H704DQCM
+Time (UTC): 2021-10-18T12:02:37
+Time (local): 2021.10.18 08:02:37
+Process ID: 6530
+Log Path:  /storage/emulated/0/Android/data/com.addsys.ravenrc/files/Documents/Raven Companion-2021-10-18.log
+Android OS Info:
+  RELEASE.......8.0.0
+  BOARD.........msm8996
+  BOOTLOADER....G930VVRSBCTC1
+  BRAND.........Verizon
+  CPU_ABI.......arm64-v8a
+  CPU_ABI2......
+  DEVICE........heroqltevzw
+  DISPLAY.......R16NW.G930VVRSBCTC1
+  FINGERPRINT...Verizon/heroqltevzw/heroqltevzw:8.0.0/R16NW/G930VVRSBCTC1:user/release-keys
+  HARDWARE......qcom
+  HOST..........SWDH7010
+  ID............R16NW
+  MANUFACTURER..samsung
+  MODEL.........SM-G930V
+  PRODUCT.......heroqltevzw
+  TAGS..........release-keys
+  TYPE..........user
+  USER..........dpi
+10-18 08:02:40.179 6530 D MainFragment: onResume()
+10-18 08:02:40.182 6530 D MainFragment: onResume(): Was Just Created
+10-18 08:02:40.457 6530 D CMS: Received NETWORK_STATE_CHANGED_ACTION
+10-18 08:02:40.472 6905 D CMS: Checking connection status
+10-18 08:02:40.475 6905 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 08:02:40.478 6905 D NetworkUtility: Initializing Network Util
+10-18 08:02:40.535 6905 D NetworkUtility: binding process to wifi network
+10-18 08:02:40.653 6905 D NetworkUtility: isWifNetworkConnected <true>
+10-18 08:02:40.683 6905 D NetworkUtility: unbinding process to network
+10-18 08:02:40.801 6905 D NetworkUtility: binding process to Wifi network "00635"
+10-18 08:02:40.869 6905 D CMS: SSID:"00635"  Rssi(dBm):-54
+10-18 08:02:40.874 6905 D CMS: IP:10.67.247.173
+10-18 08:02:40.888 6905 W CMS: The connected wifi network, "00635", is not the configured network, AirborneAPRaven
+10-18 08:02:40.891 6905 D Globals: Broadcasting CONN_STATUS_CHANGED  (WIFI_OTHER_CONNECTED)
+10-18 08:02:40.928 6905 D CMS: connectStatus: [WIFI_OTHER_CONNECTED]  SSID: "00635"  Rssi: -54  myIp: 10.67.247.173
+10-18 08:02:41.011 6530 D connStatusRcvr: Received CONN_STATUS_CHANGED
+10-18 08:02:48.091 6530 D MainFragment: onPause()
+10-18 08:02:49.231 6530 D ConnectionSetup: onResume()
+10-18 08:02:49.901 6530 D ConnectionSetup: Entering onReceive()
+10-18 08:03:00.421 6530 D ConnectionSetup: onPause()
+******************************
+******************************
+Raven Companion 3.00.01.05
+DeviceId: R38H704DQCM
+Time (UTC): 2021-10-18T12:42:01
+Time (local): 2021.10.18 08:42:01
+Process ID: 9621
+Log Path:  /storage/emulated/0/Android/data/com.addsys.ravenrc/files/Documents/Raven Companion-2021-10-18.log
+Android OS Info:
+  RELEASE.......8.0.0
+  BOARD.........msm8996
+  BOOTLOADER....G930VVRSBCTC1
+  BRAND.........Verizon
+  CPU_ABI.......arm64-v8a
+  CPU_ABI2......
+  DEVICE........heroqltevzw
+  DISPLAY.......R16NW.G930VVRSBCTC1
+  FINGERPRINT...Verizon/heroqltevzw/heroqltevzw:8.0.0/R16NW/G930VVRSBCTC1:user/release-keys
+  HARDWARE......qcom
+  HOST..........SWDH7010
+  ID............R16NW
+  MANUFACTURER..samsung
+  MODEL.........SM-G930V
+  PRODUCT.......heroqltevzw
+  TAGS..........release-keys
+  TYPE..........user
+  USER..........dpi
+10-18 08:42:03.438 9621 D MainFragment: onResume()
+10-18 08:42:03.443 9621 D MainFragment: onResume(): Was Just Created
+10-18 08:42:03.726 9621 D CMS: Received NETWORK_STATE_CHANGED_ACTION
+10-18 08:42:03.764 9817 D CMS: Checking connection status
+10-18 08:42:03.811 9817 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 08:42:03.984 9817 D NetworkUtility: Initializing Network Util
+10-18 08:42:04.051 9817 D NetworkUtility: binding process to wifi network
+10-18 08:42:04.099 9817 D NetworkUtility: isWifNetworkConnected <true>
+10-18 08:42:04.107 9817 D NetworkUtility: unbinding process to network
+10-18 08:42:04.191 9817 D NetworkUtility: binding process to Wifi network "00635"
+10-18 08:42:04.313 9817 D CMS: SSID:"00635"  Rssi(dBm):-52
+10-18 08:42:04.318 9817 D CMS: IP:10.67.247.173
+10-18 08:42:04.327 9817 W CMS: The connected wifi network, "00635", is not the configured network, AirborneAPRaven
+10-18 08:42:04.335 9817 D Globals: Broadcasting CONN_STATUS_CHANGED  (WIFI_OTHER_CONNECTED)
+10-18 08:42:04.349 9817 D CMS: connectStatus: [WIFI_OTHER_CONNECTED]  SSID: "00635"  Rssi: -52  myIp: 10.67.247.173
+10-18 08:42:04.567 9621 D connStatusRcvr: Received CONN_STATUS_CHANGED
+10-18 08:42:08.165 9621 D MainFragment: onPause()
+10-18 08:42:09.115 9621 D ConnectionSetup: onResume()
+10-18 08:42:09.720 9621 D ConnectionSetup: Entering onReceive()
+10-18 08:43:17.315 9621 D ConnSettingsHelper: Wwriting network configuration
+10-18 08:43:20.359 9621 D ConnSettingsHelper: Wwriting network configuration
+10-18 08:43:20.491 9621 D V2-RavenConnectivity: Initialize RavenConnectivity
+10-18 08:43:20.503 9621 D V2-RavenConnectivity: "00635"
+10-18 08:43:20.527 9621 D V2-RavenConnectivity: checkAndTurnOnWifi
+10-18 08:43:20.543 9621 D V2-RavenConnectivity: "00635"
+10-18 08:43:20.546 9621 D ConnectionSetup: ****************Entering getRCServerVersion()
+10-18 08:43:20.556 9621 D NetworkUtility: isWifNetworkConnected <true>
+10-18 08:43:20.562 9621 D NetworkUtility: unbinding process to network
+10-18 08:43:20.572 9621 D NetworkUtility: binding process to Wifi network "00635"
+10-18 08:43:20.565 9823 D V2-RavenConnectivity: ConnectivityManager.NetworkCallback - onAvailable()
+10-18 08:43:20.622 9823 D NetworkUtility: unbinding process to network
+10-18 08:43:20.685 9823 D NetworkUtility: binding process to Wifi network "00635"
+10-18 08:43:20.770 9823 D V2-RavenConnectivity: ConnectivityManager.NetworkCallback - onAvailable() - Wifi
+10-18 08:43:21.342 9621 D GetVersionURL: http://10.67.247.160:5500/RavenCompanionApi/Version
+10-18 08:43:21.771 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-18 08:43:21.782 9621 D V2-RavenConnectivity: "00635"
+10-18 08:43:21.787 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-18 08:43:21.798 9621 D V2-RavenConnectivity: NetInfo.isConnected - <true>
+10-18 08:43:21.802 9621 D V2-RavenConnectivity: Wifi SSID <00635>
+10-18 08:43:21.807 9621 D NetworkUtility: unbinding process to network
+10-18 08:43:21.823 9621 D NetworkUtility: binding process to Wifi network "00635"
+10-18 08:43:21.844 9621 D V2-RavenConnectivity: Broadcast Receiver - Connected
+10-18 08:43:22.900 9621 D ConnectionSetup: ******** "17.1.0.0"
+10-18 08:43:23.906 9621 D sendLogin: Entering...
+10-18 08:43:24.223 9621 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 08:43:24.239 9621 D SND: Sending LOGIN
+10-18 08:43:24.244 9621 D sendLogin: Leaving...
+10-18 08:43:24.260 9696 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 08:43:24.377 9696 D WIFI: SSID:"00635"  Signal:-52  IP:-1376304374
+10-18 08:43:24.406 9696 D WIFI: connectStatus: [WIFI_OTHER_CONNECTED]  SSID: "00635"  Rssi: -52  myIp: 10.67.247.173
+10-18 08:43:24.866 9621 D RCVD: RCMSG_OK
+10-18 08:43:24.933 9621 D LICENSE: Basic Licenses: FLEETFUEL, COMPANION
+10-18 08:43:24.867 9695 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 08:43:24.955 9695 D WIFI: SSID:"00635"  Signal:-52  IP:-1376304374
+10-18 08:43:24.971 9621 D Globals: Established connection to Raven
+10-18 08:43:24.959 9695 D Globals: Broadcasting CONN_STATUS_CHANGED  (CONN_STATUS_OK)
+10-18 08:43:25.099 9695 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -52  myIp: 10.67.247.173
+10-18 08:43:25.981 9621 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 08:43:25.991 9621 D SND: Sending GET_APPLICATION_STATE
+10-18 08:43:25.996 9697 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 08:43:26.069 9697 D WIFI: SSID:"00635"  Signal:-47  IP:-1376304374
+10-18 08:43:26.132 9621 D ConnectionSetup: onPause()
+10-18 08:43:26.154 9697 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -47  myIp: 10.67.247.173
+10-18 08:43:26.316 9621 D MainFragment: onResume()
+10-18 08:43:26.755 9621 D CMS: Received NETWORK_STATE_CHANGED_ACTION
+10-18 08:43:26.787 13246 D CMS: Checking connection status
+10-18 08:43:26.803 13246 D CMS: Foregoing wifi status check
+10-18 08:43:27.591 9621 D RCVD: RCMSG_OK
+10-18 08:43:27.593 9621 D LICENSE: Basic Licenses: FLEETFUEL, COMPANION
+10-18 08:43:27.601 9621 D LICENSE: Licensed Features: CompanionScanningEnabled
+10-18 08:43:27.591 9696 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 08:43:27.629 9696 D WIFI: SSID:"00635"  Signal:-46  IP:-1376304374
+10-18 08:43:27.649 9696 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -46  myIp: 10.67.247.173
+10-18 08:43:29.254 9621 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 08:43:29.270 9621 D SND: Sending VERIFY_APPLICATION_STATE
+10-18 08:43:29.275 9695 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 08:43:29.308 9695 D WIFI: SSID:"00635"  Signal:-50  IP:-1376304374
+10-18 08:43:29.381 9695 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -50  myIp: 10.67.247.173
+10-18 08:43:29.848 9621 D RCVD: RCMSG_OK
+10-18 08:43:29.851 9621 D MainFragment: Checking license and truck meter
+10-18 08:43:29.851 9697 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 08:43:29.853 9621 D LICENSE-INFO: Server Protocal Version: 2.10
+10-18 08:43:29.856 9621 D LICENSE-INFO: Driver licensed for FleetFueling: true
+10-18 08:43:29.858 9621 D LICENSE-INFO: Driver licensed for Companion: true
+10-18 08:43:29.864 9621 D LICENSE-INFO: Customer licensed for FleetFueling: true
+10-18 08:43:29.866 9621 D LICENSE-INFO: Customer licensed for Companion: true
+10-18 08:43:29.869 9621 D LICENSE-INFO: Feature Set: CompanionScanningEnabled 
+10-18 08:43:29.864 9697 D WIFI: SSID:"00635"  Signal:-50  IP:-1376304374
+10-18 08:43:29.926 9697 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -50  myIp: 10.67.247.173
+10-18 08:43:30.022 9621 D MainFragment: onPause()
+10-18 08:43:30.294 9621 D OnFFSiteFragment: onCreate()
+10-18 08:43:30.303 9621 D OnFFSiteFragment: onCreateView()
+10-18 08:43:30.576 9621 D OnFFSiteFragment: onViewCreated()
+10-18 08:43:30.612 9621 D OnFFSiteFragment: onResume()
+10-18 08:43:30.623 9621 D OnFFSiteFragment: onResume - calling setUI()
+10-18 08:43:30.627 9621 D OnFFSiteFragment: Entering setUI()
+10-18 08:43:30.670 9621 D OnFFSiteFragment: connStatusItem is null!
+10-18 08:43:30.674 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 08:43:31.155 9621 D CMS: Received NETWORK_STATE_CHANGED_ACTION
+10-18 08:43:31.159 9621 D OnFFSiteFragment: Runnable calling setUI()
+10-18 08:43:31.161 9621 D OnFFSiteFragment: Entering setUI()
+10-18 08:43:31.178 9621 D OnFFSiteFragment: connStatusItem is null!
+10-18 08:43:31.181 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 08:43:31.219 13391 D CMS: Checking connection status
+10-18 08:43:31.258 13391 D CMS: Foregoing wifi status check
+10-18 08:43:31.662 9621 D OnFFSiteFragment: onCreateOptionsMenu()
+10-18 08:43:31.667 9621 D OnFFSiteFragment: onPrepareOptionsMenu()
+10-18 08:45:42.852 9621 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 08:45:42.870 9621 D SND: Sending GET_APPLICATION_STATE
+10-18 08:45:42.891 18148 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 08:45:42.970 18148 D WIFI: SSID:"00635"  Signal:-49  IP:-1376304374
+10-18 08:45:43.033 18148 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -49  myIp: 10.67.247.173
+10-18 08:45:43.773 9621 D RCVD: RCMSG_OP_NOT_ALLOWED: Customer not on-site
+10-18 08:45:43.798 18153 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 08:45:43.829 18153 D WIFI: SSID:"00635"  Signal:-48  IP:-1376304374
+10-18 08:45:43.840 18153 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -48  myIp: 10.67.247.173
+10-18 08:45:45.201 9621 D Globals: Broadcasting APP_STATE_NOT_ONSITE
+10-18 08:45:45.339 9621 D OnFFSiteFragment: onPause()
+10-18 08:45:45.509 9621 D MainFragment: onResume()
+10-18 08:45:45.774 9621 D CMS: Received NETWORK_STATE_CHANGED_ACTION
+10-18 08:45:45.795 18170 D CMS: Checking connection status
+10-18 08:45:45.811 18170 D CMS: Foregoing wifi status check
+10-18 08:46:02.839 9621 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 08:46:02.846 9621 D SND: Sending VERIFY_APPLICATION_STATE
+10-18 08:46:02.849 18280 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 08:46:02.857 18280 D WIFI: SSID:"00635"  Signal:-46  IP:-1376304374
+10-18 08:46:02.862 18280 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -46  myIp: 10.67.247.173
+10-18 08:46:03.046 9621 D RCVD: RCMSG_OUT_OF_SYNC
+10-18 08:46:03.047 18148 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 08:46:03.053 18148 D WIFI: SSID:"00635"  Signal:-46  IP:-1376304374
+10-18 08:46:03.057 18148 D Globals: Broadcasting CONN_STATUS_CHANGED  (API_RESPONSE_OUT_OF_SYNC)
+10-18 08:46:03.066 18148 D WIFI: connectStatus: [API_RESPONSE_OUT_OF_SYNC]  SSID: "00635"  Rssi: -46  myIp: 10.67.247.173
+10-18 08:46:03.209 9621 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 08:46:03.216 9621 D SND: Sending GET_APPLICATION_STATE
+10-18 08:46:03.219 18153 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 08:46:03.235 18153 D WIFI: SSID:"00635"  Signal:-46  IP:-1376304374
+10-18 08:46:03.239 18153 D WIFI: connectStatus: [API_RESPONSE_OUT_OF_SYNC]  SSID: "00635"  Rssi: -46  myIp: 10.67.247.173
+10-18 08:46:03.288 9621 D connStatusRcvr: Received CONN_STATUS_CHANGED
+10-18 08:46:03.517 9621 D RCVD: RCMSG_OK
+10-18 08:46:03.518 18280 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 08:46:03.520 9621 D LICENSE: Basic Licenses: FLEETFUEL, COMPANION
+10-18 08:46:03.523 9621 D LICENSE: Licensed Features: CompanionScanningEnabled
+10-18 08:46:03.543 18280 D WIFI: SSID:"00635"  Signal:-46  IP:-1376304374
+10-18 08:46:03.550 18280 D Globals: Broadcasting CONN_STATUS_CHANGED  (CONN_STATUS_OK)
+10-18 08:46:03.554 18280 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -46  myIp: 10.67.247.173
+10-18 08:46:03.776 9621 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 08:46:03.785 9621 D SND: Sending VERIFY_APPLICATION_STATE
+10-18 08:46:03.788 18148 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 08:46:03.796 18148 D WIFI: SSID:"00635"  Signal:-46  IP:-1376304374
+10-18 08:46:03.811 18148 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -46  myIp: 10.67.247.173
+10-18 08:46:03.845 9621 D connStatusRcvr: Received CONN_STATUS_CHANGED
+10-18 08:46:04.021 18153 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 08:46:04.020 9621 D RCVD: RCMSG_OK
+10-18 08:46:04.023 9621 D MainFragment: Checking license and truck meter
+10-18 08:46:04.026 9621 D LICENSE-INFO: Server Protocal Version: 2.10
+10-18 08:46:04.029 9621 D LICENSE-INFO: Driver licensed for FleetFueling: true
+10-18 08:46:04.028 18153 D WIFI: SSID:"00635"  Signal:-46  IP:-1376304374
+10-18 08:46:04.036 9621 D LICENSE-INFO: Driver licensed for Companion: true
+10-18 08:46:04.038 18153 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -46  myIp: 10.67.247.173
+10-18 08:46:04.039 9621 D LICENSE-INFO: Customer licensed for FleetFueling: true
+10-18 08:46:04.044 9621 D LICENSE-INFO: Customer licensed for Companion: true
+10-18 08:46:04.046 9621 D LICENSE-INFO: Feature Set: CompanionScanningEnabled 
+10-18 08:46:04.116 9621 D MainFragment: onPause()
+10-18 08:46:04.251 9621 D OnFFSiteFragment: onCreate()
+10-18 08:46:04.258 9621 D OnFFSiteFragment: onCreateView()
+10-18 08:46:04.443 9621 D OnFFSiteFragment: onViewCreated()
+10-18 08:46:04.461 9621 D OnFFSiteFragment: onResume()
+10-18 08:46:04.471 9621 D OnFFSiteFragment: onResume - calling setUI()
+10-18 08:46:04.474 9621 D OnFFSiteFragment: Entering setUI()
+10-18 08:46:04.497 9621 D OnFFSiteFragment: connStatusItem is null!
+10-18 08:46:04.499 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 08:46:04.736 9621 D CMS: Received NETWORK_STATE_CHANGED_ACTION
+10-18 08:46:04.742 9621 D OnFFSiteFragment: Runnable calling setUI()
+10-18 08:46:04.742 18285 D CMS: Checking connection status
+10-18 08:46:04.744 9621 D OnFFSiteFragment: Entering setUI()
+10-18 08:46:04.744 18285 D CMS: Foregoing wifi status check
+10-18 08:46:04.752 9621 D OnFFSiteFragment: connStatusItem is null!
+10-18 08:46:04.754 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 08:46:04.890 9621 D OnFFSiteFragment: onCreateOptionsMenu()
+10-18 08:46:04.898 9621 D OnFFSiteFragment: onPrepareOptionsMenu()
+10-18 08:52:52.626 9621 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 08:52:52.634 9621 D SND: Sending PRINT_INVOICE
+10-18 08:52:52.645 20805 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 08:52:52.653 20805 D WIFI: SSID:"00635"  Signal:-51  IP:-1376304374
+10-18 08:52:52.655 20805 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -51  myIp: 10.67.247.173
+10-18 08:52:52.976 9621 D RCVD: RCMSG_OP_NOT_ALLOWED: You must complete the delivery before attempting this action
+10-18 08:52:52.978 9621 D OnFFSiteFragment.onPrintInvoice: RCMSG_OP_NOT_ALLOWED    You must complete the delivery before attempting this action
+10-18 08:52:53.066 20810 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 08:52:53.081 20810 D WIFI: SSID:"00635"  Signal:-51  IP:-1376304374
+10-18 08:52:53.087 20810 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -51  myIp: 10.67.247.173
+10-18 08:52:56.043 9621 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 08:52:56.049 9621 D SND: Sending GET_INVOICE_AND_SIGNATURE
+10-18 08:52:56.057 20818 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 08:52:56.076 20818 D WIFI: SSID:"00635"  Signal:-47  IP:-1376304374
+10-18 08:52:56.083 20818 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -47  myIp: 10.67.247.173
+10-18 08:52:56.298 20805 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 08:52:56.298 9621 D RCVD: RCMSG_OP_NOT_ALLOWED: You must complete the delivery before attempting this action
+10-18 08:52:56.304 20805 D WIFI: SSID:"00635"  Signal:-48  IP:-1376304374
+10-18 08:52:56.306 20805 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -48  myIp: 10.67.247.173
+10-18 09:02:58.970 9621 D OnFFSiteFragment: onPause()
+10-18 09:18:22.648 9621 D OnFFSiteFragment: onResume()
+10-18 09:18:22.721 9621 D OnFFSiteFragment: onResume - calling setUI()
+10-18 09:18:22.723 9621 D OnFFSiteFragment: Entering setUI()
+10-18 09:18:22.772 9621 D OnFFSiteFragment: Setting connStatusItem status_ok
+10-18 09:18:22.773 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 09:18:22.953 9621 D CMS: Received NETWORK_STATE_CHANGED_ACTION
+10-18 09:18:22.985 32600 D CMS: Checking connection status
+10-18 09:18:22.987 32600 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:18:22.996 32600 D CMS: SSID:"00635"  Rssi(dBm):-46
+10-18 09:18:22.997 32600 D CMS: IP:10.67.247.173
+10-18 09:18:23.042 32600 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 09:18:23.048 32600 D SND: Sending VERIFY_APPLICATION_STATE
+10-18 09:18:23.065 32608 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:18:23.068 32608 D WIFI: SSID:"00635"  Signal:-46  IP:-1376304374
+10-18 09:18:23.070 32608 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -46  myIp: 10.67.247.173
+10-18 09:18:23.379 9621 D RCVD: RCMSG_OK
+10-18 09:18:23.384 32639 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:18:23.388 32639 D WIFI: SSID:"00635"  Signal:-46  IP:-1376304374
+10-18 09:18:23.389 32639 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -46  myIp: 10.67.247.173
+10-18 09:18:23.561 32600 D CMS: Retrieved application state
+10-18 09:18:23.563 32600 D CMS: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -46  myIp: 10.67.247.173
+10-18 09:28:23.587 9621 D OnFFSiteFragment: onPause()
+10-18 09:31:05.726 9621 D OnFFSiteFragment: onResume()
+10-18 09:31:05.740 9621 D OnFFSiteFragment: onResume - calling setUI()
+10-18 09:31:05.742 9621 D OnFFSiteFragment: Entering setUI()
+10-18 09:31:05.751 9621 D OnFFSiteFragment: Setting connStatusItem status_ok
+10-18 09:31:05.752 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 09:31:05.815 9621 D CMS: Received NETWORK_STATE_CHANGED_ACTION
+10-18 09:31:05.819 1526 D CMS: Checking connection status
+10-18 09:31:05.820 1526 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:31:05.832 1526 D CMS: SSID:"00635"  Rssi(dBm):-46
+10-18 09:31:05.834 1526 D CMS: IP:10.67.247.173
+10-18 09:31:05.856 1526 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 09:31:05.860 1526 D SND: Sending VERIFY_APPLICATION_STATE
+10-18 09:31:05.865 1532 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:31:05.870 1532 D WIFI: SSID:"00635"  Signal:-46  IP:-1376304374
+10-18 09:31:05.873 1532 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -46  myIp: 10.67.247.173
+10-18 09:31:06.107 9621 D RCVD: RCMSG_OK
+10-18 09:31:06.112 1549 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:31:06.158 1549 D WIFI: SSID:"00635"  Signal:-46  IP:-1376304374
+10-18 09:31:06.211 1549 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -46  myIp: 10.67.247.173
+10-18 09:31:06.363 1526 D CMS: Retrieved application state
+10-18 09:31:06.364 1526 D CMS: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -46  myIp: 10.67.247.173
+10-18 09:31:15.005 9621 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 09:31:15.010 9621 D SND: Sending GET_APPLICATION_STATE
+10-18 09:31:15.015 1619 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:31:15.023 1619 D WIFI: SSID:"00635"  Signal:-44  IP:-1376304374
+10-18 09:31:15.025 1619 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -44  myIp: 10.67.247.173
+10-18 09:31:15.187 1532 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:31:15.187 9621 D RCVD: RCMSG_OK
+10-18 09:31:15.189 9621 D LICENSE: Basic Licenses: FLEETFUEL, COMPANION
+10-18 09:31:15.192 1532 D WIFI: SSID:"00635"  Signal:-44  IP:-1376304374
+10-18 09:31:15.192 9621 D LICENSE: Licensed Features: CompanionScanningEnabled
+10-18 09:31:15.195 1532 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -44  myIp: 10.67.247.173
+10-18 09:31:15.195 9621 D OnFFSiteFragment: Entering setUI()
+10-18 09:31:15.235 9621 D OnFFSiteFragment: Setting connStatusItem status_ok
+10-18 09:31:15.236 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 09:31:18.639 9621 D OnFFSiteFragment: onPause()
+10-18 09:31:21.431 9621 D OnFFSiteFragment: onResume()
+10-18 09:31:21.461 9621 D OnFFSiteFragment: onResume - calling setUI()
+10-18 09:31:21.463 9621 D OnFFSiteFragment: Entering setUI()
+10-18 09:31:21.478 9621 D OnFFSiteFragment: Setting connStatusItem status_ok
+10-18 09:31:21.479 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 09:31:21.681 9621 D CMS: Received NETWORK_STATE_CHANGED_ACTION
+10-18 09:31:21.683 1724 D CMS: Checking connection status
+10-18 09:31:21.684 1724 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:31:21.689 1724 D CMS: SSID:"00635"  Rssi(dBm):-43
+10-18 09:31:21.693 1724 D CMS: IP:10.67.247.173
+10-18 09:31:21.723 1724 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 09:31:21.730 1724 D SND: Sending VERIFY_APPLICATION_STATE
+10-18 09:31:21.733 1549 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:31:21.747 1549 D WIFI: SSID:"00635"  Signal:-43  IP:-1376304374
+10-18 09:31:21.754 1549 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -43  myIp: 10.67.247.173
+10-18 09:31:21.784 1619 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:31:21.784 9621 D RCVD: RCMSG_OK
+10-18 09:31:21.788 1619 D WIFI: SSID:"00635"  Signal:-43  IP:-1376304374
+10-18 09:31:21.789 1619 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -43  myIp: 10.67.247.173
+10-18 09:31:22.233 1724 D CMS: Retrieved application state
+10-18 09:31:22.236 1724 D CMS: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -43  myIp: 10.67.247.173
+10-18 09:31:23.982 9621 D OnFFSiteFragment: Entering setUI()
+10-18 09:31:23.993 9621 D OnFFSiteFragment: Setting connStatusItem status_ok
+10-18 09:31:23.996 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 09:31:29.127 9621 D OnFFSiteFragment: onPause()
+10-18 09:31:33.106 9621 D OnFFSiteFragment.AssetScanResult: Raven[~]CustomerAsset[~]ADD Systems[~]ASS1
+10-18 09:31:33.108 9621 D OnFFSiteFragment.AssetScanResult: arr.length:4
+10-18 09:31:33.109 9621 D OnFFSiteFragment.AssetScanResult: assetCode:ASS1
+10-18 09:31:33.324 9621 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 09:31:33.329 9621 D SND: Sending ASSET_DELIVERY_BEGIN
+10-18 09:31:33.331 1532 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:31:33.340 9621 D OnFFSiteFragment: onResume()
+10-18 09:31:33.341 1532 D WIFI: SSID:"00635"  Signal:-43  IP:-1376304374
+10-18 09:31:33.345 9621 D OnFFSiteFragment: onResume - calling setUI()
+10-18 09:31:33.346 9621 D OnFFSiteFragment: Entering setUI()
+10-18 09:31:33.343 1532 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -43  myIp: 10.67.247.173
+10-18 09:31:33.353 9621 D OnFFSiteFragment: Setting connStatusItem status_ok
+10-18 09:31:33.356 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 09:31:33.531 9621 D CMS: Received NETWORK_STATE_CHANGED_ACTION
+10-18 09:31:33.532 1978 D CMS: Checking connection status
+10-18 09:31:33.534 1978 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:31:33.537 1978 D CMS: SSID:"00635"  Rssi(dBm):-43
+10-18 09:31:33.538 1978 D CMS: IP:10.67.247.173
+10-18 09:31:33.552 1978 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 09:31:33.555 1978 D SND: Sending VERIFY_APPLICATION_STATE
+10-18 09:31:33.561 1549 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:31:33.566 1549 D WIFI: SSID:"00635"  Signal:-43  IP:-1376304374
+10-18 09:31:33.568 1549 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -43  myIp: 10.67.247.173
+10-18 09:31:33.859 1619 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:31:33.859 9621 D RCVD: RCMSG_OK
+10-18 09:31:33.863 9621 D OnFFSiteFragment: Entering setUI()
+10-18 09:31:33.865 1619 D WIFI: SSID:"00635"  Signal:-43  IP:-1376304374
+10-18 09:31:33.868 1619 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -43  myIp: 10.67.247.173
+10-18 09:31:33.877 9621 D OnFFSiteFragment: Setting connStatusItem status_ok
+10-18 09:31:33.879 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 09:31:33.915 9621 D RCVD: RCMSG_OK
+10-18 09:31:33.916 1532 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:31:33.922 1532 D WIFI: SSID:"00635"  Signal:-43  IP:-1376304374
+10-18 09:31:33.925 1532 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -43  myIp: 10.67.247.173
+10-18 09:31:34.061 1978 D CMS: Retrieved application state
+10-18 09:31:34.062 1978 D CMS: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -43  myIp: 10.67.247.173
+10-18 09:31:54.833 9621 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 09:31:54.837 9621 D SND: Sending ASSET_DELIVERY_END
+10-18 09:31:54.838 1549 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:31:54.841 1549 D WIFI: SSID:"00635"  Signal:-43  IP:-1376304374
+10-18 09:31:54.842 1549 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -43  myIp: 10.67.247.173
+10-18 09:31:55.087 9621 D RCVD: RCMSG_OK
+10-18 09:31:55.088 9621 D OnFFSiteFragment.endAssetDelivery: Asset:Asset bar code 1  delivered:5.000000
+10-18 09:31:55.089 1619 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:31:55.089 9621 D OnFFSiteFragment: Entering setUI()
+10-18 09:31:55.093 1619 D WIFI: SSID:"00635"  Signal:-43  IP:-1376304374
+10-18 09:31:55.095 1619 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -43  myIp: 10.67.247.173
+10-18 09:31:55.114 9621 D OnFFSiteFragment: Setting connStatusItem status_ok
+10-18 09:31:55.116 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 09:31:56.914 9621 D OnFFSiteFragment: onPause()
+10-18 09:32:01.865 9621 D OnFFSiteFragment.AssetScanResult: Raven[~]CustomerAsset[~]ADD Systems[~]123123
+10-18 09:32:01.867 9621 D OnFFSiteFragment.AssetScanResult: arr.length:4
+10-18 09:32:01.868 9621 D OnFFSiteFragment.AssetScanResult: assetCode:123123
+10-18 09:32:01.989 9621 D OnFFSiteFragment: onResume()
+10-18 09:32:01.993 9621 D OnFFSiteFragment: onResume - calling setUI()
+10-18 09:32:01.996 9621 D OnFFSiteFragment: Entering setUI()
+10-18 09:32:02.001 9621 D OnFFSiteFragment: Setting connStatusItem status_ok
+10-18 09:32:02.002 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 09:32:02.210 9621 D CMS: Received NETWORK_STATE_CHANGED_ACTION
+10-18 09:32:02.212 2295 D CMS: Checking connection status
+10-18 09:32:02.213 2295 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:32:02.221 2295 D CMS: SSID:"00635"  Rssi(dBm):-43
+10-18 09:32:02.222 2295 D CMS: IP:10.67.247.173
+10-18 09:32:02.233 2295 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 09:32:02.236 2295 D SND: Sending VERIFY_APPLICATION_STATE
+10-18 09:32:02.238 1532 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:32:02.242 1532 D WIFI: SSID:"00635"  Signal:-43  IP:-1376304374
+10-18 09:32:02.244 1532 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -43  myIp: 10.67.247.173
+10-18 09:32:02.289 9621 D RCVD: RCMSG_OK
+10-18 09:32:02.289 1549 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:32:02.292 1549 D WIFI: SSID:"00635"  Signal:-43  IP:-1376304374
+10-18 09:32:02.293 1549 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -43  myIp: 10.67.247.173
+10-18 09:32:02.738 2295 D CMS: Retrieved application state
+10-18 09:32:02.739 2295 D CMS: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -43  myIp: 10.67.247.173
+10-18 09:32:06.630 9621 D OnFFSiteFragment: onPause()
+10-18 09:32:13.339 9621 D OnFFSiteFragment.AssetScanResult: Raven[~]CustomerAsset[~]ADD Systems[~]123123
+10-18 09:32:13.344 9621 D OnFFSiteFragment.AssetScanResult: arr.length:4
+10-18 09:32:13.347 9621 D OnFFSiteFragment.AssetScanResult: assetCode:123123
+10-18 09:32:13.451 9621 D OnFFSiteFragment: onResume()
+10-18 09:32:13.456 9621 D OnFFSiteFragment: onResume - calling setUI()
+10-18 09:32:13.457 9621 D OnFFSiteFragment: Entering setUI()
+10-18 09:32:13.465 9621 D OnFFSiteFragment: Setting connStatusItem status_ok
+10-18 09:32:13.466 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 09:32:13.656 9621 D CMS: Received NETWORK_STATE_CHANGED_ACTION
+10-18 09:32:13.658 2764 D CMS: Checking connection status
+10-18 09:32:13.660 2764 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:32:13.663 2764 D CMS: SSID:"00635"  Rssi(dBm):-41
+10-18 09:32:13.665 2764 D CMS: IP:10.67.247.173
+10-18 09:32:13.682 2764 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 09:32:13.686 2764 D SND: Sending VERIFY_APPLICATION_STATE
+10-18 09:32:13.687 1619 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:32:13.689 1619 D WIFI: SSID:"00635"  Signal:-41  IP:-1376304374
+10-18 09:32:13.691 1619 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -41  myIp: 10.67.247.173
+10-18 09:32:13.740 9621 D RCVD: RCMSG_OK
+10-18 09:32:13.741 1532 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:32:13.744 1532 D WIFI: SSID:"00635"  Signal:-41  IP:-1376304374
+10-18 09:32:13.746 1532 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -41  myIp: 10.67.247.173
+10-18 09:32:14.187 2764 D CMS: Retrieved application state
+10-18 09:32:14.188 2764 D CMS: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -41  myIp: 10.67.247.173
+10-18 09:32:16.040 9621 D OnFFSiteFragment: onPause()
+10-18 09:32:19.826 9621 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 09:32:19.831 9621 D SND: Sending ASSET_DELIVERY_BEGIN
+10-18 09:32:19.832 1549 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:32:19.843 9621 D OnFFSiteFragment: onResume()
+10-18 09:32:19.850 9621 D OnFFSiteFragment: onResume - calling setUI()
+10-18 09:32:19.851 9621 D OnFFSiteFragment: Entering setUI()
+10-18 09:32:19.860 9621 D OnFFSiteFragment: Setting connStatusItem status_ok
+10-18 09:32:19.861 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 09:32:19.864 1549 D WIFI: SSID:"00635"  Signal:-42  IP:-1376304374
+10-18 09:32:19.865 1549 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -42  myIp: 10.67.247.173
+10-18 09:32:20.018 9621 D CMS: Received NETWORK_STATE_CHANGED_ACTION
+10-18 09:32:20.019 3007 D CMS: Checking connection status
+10-18 09:32:20.021 3007 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:32:20.024 3007 D CMS: SSID:"00635"  Rssi(dBm):-42
+10-18 09:32:20.025 3007 D CMS: IP:10.67.247.173
+10-18 09:32:20.033 3007 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 09:32:20.036 3007 D SND: Sending VERIFY_APPLICATION_STATE
+10-18 09:32:20.038 1619 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:32:20.043 1619 D WIFI: SSID:"00635"  Signal:-42  IP:-1376304374
+10-18 09:32:20.045 1619 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -42  myIp: 10.67.247.173
+10-18 09:32:20.136 9621 D RCVD: RCMSG_OK
+10-18 09:32:20.137 1532 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:32:20.137 9621 D OnFFSiteFragment: Entering setUI()
+10-18 09:32:20.140 1532 D WIFI: SSID:"00635"  Signal:-42  IP:-1376304374
+10-18 09:32:20.142 1532 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -42  myIp: 10.67.247.173
+10-18 09:32:20.148 9621 D OnFFSiteFragment: Setting connStatusItem status_ok
+10-18 09:32:20.149 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 09:32:20.315 9621 D RCVD: RCMSG_OK
+10-18 09:32:20.316 1549 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 09:32:20.319 1549 D WIFI: SSID:"00635"  Signal:-42  IP:-1376304374
+10-18 09:32:20.320 1549 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -42  myIp: 10.67.247.173
+10-18 09:32:20.537 3007 D CMS: Retrieved application state
+10-18 09:32:20.539 3007 D CMS: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -42  myIp: 10.67.247.173
+10-18 09:54:18.491 9621 D OnFFSiteFragment: onPause()
+10-18 10:02:55.533 9621 D OnFFSiteFragment: onResume()
+10-18 10:02:55.550 9621 D OnFFSiteFragment: onResume - calling setUI()
+10-18 10:02:55.551 9621 D OnFFSiteFragment: Entering setUI()
+10-18 10:02:55.572 9621 D OnFFSiteFragment: Setting connStatusItem status_ok
+10-18 10:02:55.574 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 10:02:55.681 9621 D CMS: Received NETWORK_STATE_CHANGED_ACTION
+10-18 10:02:55.703 6440 D CMS: Checking connection status
+10-18 10:02:55.709 6440 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 10:02:55.714 6440 D CMS: SSID:"00635"  Rssi(dBm):-46
+10-18 10:02:55.719 6440 D CMS: IP:10.67.247.173
+10-18 10:02:55.766 6440 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 10:02:55.782 6440 D SND: Sending VERIFY_APPLICATION_STATE
+10-18 10:02:55.793 6474 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 10:02:55.835 6474 D WIFI: SSID:"00635"  Signal:-47  IP:-1376304374
+10-18 10:02:55.837 6474 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -47  myIp: 10.67.247.173
+10-18 10:02:56.059 9621 D RCVD: RCMSG_OK
+10-18 10:02:56.062 6488 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 10:02:56.086 6488 D WIFI: SSID:"00635"  Signal:-47  IP:-1376304374
+10-18 10:02:56.088 6488 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -47  myIp: 10.67.247.173
+10-18 10:02:56.287 6440 D CMS: Retrieved application state
+10-18 10:02:56.288 6440 D CMS: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -46  myIp: 10.67.247.173
+10-18 10:12:56.366 9621 D OnFFSiteFragment: onPause()
+10-18 10:30:47.466 9621 D OnFFSiteFragment: onResume()
+10-18 10:30:47.526 9621 D OnFFSiteFragment: onResume - calling setUI()
+10-18 10:30:47.527 9621 D OnFFSiteFragment: Entering setUI()
+10-18 10:30:47.532 9621 D OnFFSiteFragment: Setting connStatusItem status_ok
+10-18 10:30:47.533 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 10:30:47.567 9621 D CMS: Received NETWORK_STATE_CHANGED_ACTION
+10-18 10:30:47.571 7415 D CMS: Checking connection status
+10-18 10:30:47.572 7415 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 10:30:47.583 7415 D CMS: SSID:"00635"  Rssi(dBm):-47
+10-18 10:30:47.584 7415 D CMS: IP:10.67.247.173
+10-18 10:30:47.620 7415 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 10:30:47.649 7415 D SND: Sending VERIFY_APPLICATION_STATE
+10-18 10:30:47.687 7438 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 10:30:47.699 7438 D WIFI: SSID:"00635"  Signal:-47  IP:-1376304374
+10-18 10:30:47.703 7438 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -47  myIp: 10.67.247.173
+10-18 10:30:47.981 9621 D RCVD: RCMSG_OK
+10-18 10:30:47.981 7461 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 10:30:47.987 7461 D WIFI: SSID:"00635"  Signal:-47  IP:-1376304374
+10-18 10:30:47.993 7461 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -47  myIp: 10.67.247.173
+10-18 10:30:48.154 7415 D CMS: Retrieved application state
+10-18 10:30:48.155 7415 D CMS: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -47  myIp: 10.67.247.173
+10-18 10:35:27.217 9621 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 10:35:27.220 9621 D SND: Sending GET_APPLICATION_STATE
+10-18 10:35:27.224 7963 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 10:35:27.230 7963 D WIFI: SSID:"00635"  Signal:-47  IP:-1376304374
+10-18 10:35:27.232 7963 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -47  myIp: 10.67.247.173
+10-18 10:35:27.451 7964 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 10:35:27.450 9621 D RCVD: RCMSG_OK
+10-18 10:35:27.452 9621 D LICENSE: Basic Licenses: FLEETFUEL, COMPANION
+10-18 10:35:27.454 9621 D LICENSE: Licensed Features: CompanionScanningEnabled
+10-18 10:35:27.454 7964 D WIFI: SSID:"00635"  Signal:-48  IP:-1376304374
+10-18 10:35:27.455 9621 D OnFFSiteFragment: Entering setUI()
+10-18 10:35:27.456 7964 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -48  myIp: 10.67.247.173
+10-18 10:35:27.488 9621 D OnFFSiteFragment: Setting connStatusItem status_ok
+10-18 10:35:27.489 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 10:35:37.885 9621 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 10:35:37.889 9621 D SND: Sending GET_APPLICATION_STATE
+10-18 10:35:37.892 7968 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 10:35:37.896 7968 D WIFI: SSID:"00635"  Signal:-47  IP:-1376304374
+10-18 10:35:37.897 7968 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -47  myIp: 10.67.247.173
+10-18 10:35:38.037 9621 D RCVD: RCMSG_OK
+10-18 10:35:38.039 7963 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 10:35:38.039 9621 D LICENSE: Basic Licenses: FLEETFUEL, COMPANION
+10-18 10:35:38.040 9621 D LICENSE: Licensed Features: CompanionScanningEnabled
+10-18 10:35:38.041 9621 D OnFFSiteFragment: Entering setUI()
+10-18 10:35:38.042 7963 D WIFI: SSID:"00635"  Signal:-47  IP:-1376304374
+10-18 10:35:38.044 7963 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -47  myIp: 10.67.247.173
+10-18 10:35:38.058 9621 D OnFFSiteFragment: Setting connStatusItem status_ok
+10-18 10:35:38.060 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 10:40:24.245 9621 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 10:40:24.249 9621 D SND: Sending GET_APPLICATION_STATE
+10-18 10:40:24.252 8115 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 10:40:24.260 8115 D WIFI: SSID:"00635"  Signal:-46  IP:-1376304374
+10-18 10:40:24.263 8115 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -46  myIp: 10.67.247.173
+10-18 10:40:24.479 8116 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 10:40:24.479 9621 D RCVD: RCMSG_OK
+10-18 10:40:24.480 9621 D LICENSE: Basic Licenses: FLEETFUEL, COMPANION
+10-18 10:40:24.482 9621 D LICENSE: Licensed Features: CompanionScanningEnabled
+10-18 10:40:24.484 8116 D WIFI: SSID:"00635"  Signal:-46  IP:-1376304374
+10-18 10:40:24.484 9621 D OnFFSiteFragment: Entering setUI()
+10-18 10:40:24.485 8116 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -46  myIp: 10.67.247.173
+10-18 10:40:24.499 9621 D OnFFSiteFragment: Setting connStatusItem status_ok
+10-18 10:40:24.500 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 10:43:56.357 9621 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 10:43:56.360 9621 D SND: Sending END_METER_DELIVERY
+10-18 10:43:56.364 8372 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 10:43:56.368 8372 D WIFI: SSID:"00635"  Signal:-46  IP:-1376304374
+10-18 10:43:56.370 8372 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -46  myIp: 10.67.247.173
+10-18 10:43:58.774 8374 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 10:43:58.772 9621 D RCVD: RCMSG_OK
+10-18 10:43:58.779 9621 D OnFFSiteFragment: Entering setUI()
+10-18 10:43:58.799 8374 D WIFI: SSID:"00635"  Signal:-48  IP:-1376304374
+10-18 10:43:58.802 8374 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -48  myIp: 10.67.247.173
+10-18 10:43:58.818 9621 D OnFFSiteFragment: Setting connStatusItem status_ok
+10-18 10:43:58.818 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 10:54:01.943 9621 D OnFFSiteFragment: onPause()
+10-18 10:55:03.872 9621 D OnFFSiteFragment: onResume()
+10-18 10:55:03.942 9621 D OnFFSiteFragment: onResume - calling setUI()
+10-18 10:55:03.943 9621 D OnFFSiteFragment: Entering setUI()
+10-18 10:55:04.047 9621 D OnFFSiteFragment: Setting connStatusItem status_ok
+10-18 10:55:04.047 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 10:55:04.140 9621 D CMS: Received NETWORK_STATE_CHANGED_ACTION
+10-18 10:55:04.146 9066 D CMS: Checking connection status
+10-18 10:55:04.147 9066 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 10:55:04.159 9066 D CMS: SSID:"00635"  Rssi(dBm):-46
+10-18 10:55:04.160 9066 D CMS: IP:10.67.247.173
+10-18 10:55:04.173 9066 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 10:55:04.184 9066 D SND: Sending VERIFY_APPLICATION_STATE
+10-18 10:55:04.208 9073 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 10:55:04.220 9073 D WIFI: SSID:"00635"  Signal:-46  IP:-1376304374
+10-18 10:55:04.221 9073 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -46  myIp: 10.67.247.173
+10-18 10:55:04.541 9621 D RCVD: RCMSG_OK
+10-18 10:55:04.557 9095 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 10:55:04.573 9095 D WIFI: SSID:"00635"  Signal:-46  IP:-1376304374
+10-18 10:55:04.588 9095 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -46  myIp: 10.67.247.173
+10-18 10:55:04.698 9066 D CMS: Retrieved application state
+10-18 10:55:04.699 9066 D CMS: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -46  myIp: 10.67.247.173
+10-18 10:55:05.631 9621 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 10:55:05.633 9621 D SND: Sending GET_APPLICATION_STATE
+10-18 10:55:05.635 9104 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 10:55:05.639 9104 D WIFI: SSID:"00635"  Signal:-47  IP:-1376304374
+10-18 10:55:05.647 9104 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -47  myIp: 10.67.247.173
+10-18 10:55:05.815 9621 D RCVD: RCMSG_OK
+10-18 10:55:05.815 9073 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 10:55:05.816 9621 D LICENSE: Basic Licenses: FLEETFUEL, COMPANION
+10-18 10:55:05.817 9621 D LICENSE: Licensed Features: CompanionScanningEnabled
+10-18 10:55:05.818 9621 D OnFFSiteFragment: Entering setUI()
+10-18 10:55:05.819 9073 D WIFI: SSID:"00635"  Signal:-47  IP:-1376304374
+10-18 10:55:05.821 9073 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -47  myIp: 10.67.247.173
+10-18 10:55:05.833 9621 D OnFFSiteFragment: Setting connStatusItem status_ok
+10-18 10:55:05.834 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 10:58:21.936 9621 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 10:58:21.939 9621 D SND: Sending GET_APPLICATION_STATE
+10-18 10:58:21.941 9266 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 10:58:21.950 9266 D WIFI: SSID:"00635"  Signal:-46  IP:-1376304374
+10-18 10:58:21.952 9266 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -46  myIp: 10.67.247.173
+10-18 10:58:22.161 9621 D RCVD: RCMSG_OK
+10-18 10:58:22.162 9621 D LICENSE: Basic Licenses: FLEETFUEL, COMPANION
+10-18 10:58:22.163 9621 D LICENSE: Licensed Features: CompanionScanningEnabled
+10-18 10:58:22.164 9621 D OnFFSiteFragment: Entering setUI()
+10-18 10:58:22.167 9267 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 10:58:22.170 9621 D OnFFSiteFragment: Setting connStatusItem status_ok
+10-18 10:58:22.171 9267 D WIFI: SSID:"00635"  Signal:-46  IP:-1376304374
+10-18 10:58:22.172 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 10:58:22.173 9267 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -46  myIp: 10.67.247.173
+10-18 11:08:22.383 9621 D OnFFSiteFragment: onPause()
+10-18 11:39:02.780 9621 D OnFFSiteFragment: onResume()
+10-18 11:39:02.815 9621 D OnFFSiteFragment: onResume - calling setUI()
+10-18 11:39:02.816 9621 D OnFFSiteFragment: Entering setUI()
+10-18 11:39:02.833 9621 D OnFFSiteFragment: Setting connStatusItem status_ok
+10-18 11:39:02.834 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 11:39:02.947 9621 D CMS: Received NETWORK_STATE_CHANGED_ACTION
+10-18 11:39:02.954 11315 D CMS: Checking connection status
+10-18 11:39:02.964 11315 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 11:39:02.974 11315 D CMS: SSID:"00635"  Rssi(dBm):-48
+10-18 11:39:02.975 11315 D CMS: IP:10.67.247.173
+10-18 11:39:02.986 11315 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 11:39:02.988 11315 D SND: Sending VERIFY_APPLICATION_STATE
+10-18 11:39:02.996 11324 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 11:39:03.011 11324 D WIFI: SSID:"00635"  Signal:-48  IP:-1376304374
+10-18 11:39:03.014 11324 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -48  myIp: 10.67.247.173
+10-18 11:39:03.311 9621 D RCVD: RCMSG_OK
+10-18 11:39:03.314 11336 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 11:39:03.326 11336 D WIFI: SSID:"00635"  Signal:-48  IP:-1376304374
+10-18 11:39:03.329 11336 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -48  myIp: 10.67.247.173
+10-18 11:39:03.492 11315 D CMS: Retrieved application state
+10-18 11:39:03.493 11315 D CMS: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -48  myIp: 10.67.247.173
+10-18 11:39:06.822 9621 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 11:39:06.827 9621 D SND: Sending GET_APPLICATION_STATE
+10-18 11:39:06.829 11696 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 11:39:06.832 11696 D WIFI: SSID:"00635"  Signal:-53  IP:-1376304374
+10-18 11:39:06.833 11696 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -53  myIp: 10.67.247.173
+10-18 11:39:07.138 9621 D RCVD: RCMSG_OK
+10-18 11:39:07.138 11324 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 11:39:07.138 9621 D LICENSE: Basic Licenses: FLEETFUEL, COMPANION
+10-18 11:39:07.139 9621 D LICENSE: Licensed Features: CompanionScanningEnabled
+10-18 11:39:07.141 11324 D WIFI: SSID:"00635"  Signal:-53  IP:-1376304374
+10-18 11:39:07.140 9621 D OnFFSiteFragment: Entering setUI()
+10-18 11:39:07.143 11324 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -53  myIp: 10.67.247.173
+10-18 11:39:07.150 9621 D OnFFSiteFragment: Setting connStatusItem status_ok
+10-18 11:39:07.152 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 11:49:07.066 9621 D OnFFSiteFragment: onPause()
+10-18 12:45:53.633 9621 D OnFFSiteFragment: onResume()
+10-18 12:45:53.646 9621 D OnFFSiteFragment: onResume - calling setUI()
+10-18 12:45:53.699 9621 D OnFFSiteFragment: Entering setUI()
+10-18 12:45:53.707 9621 D OnFFSiteFragment: Setting connStatusItem status_ok
+10-18 12:45:53.707 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 12:45:53.879 9621 D CMS: Received NETWORK_STATE_CHANGED_ACTION
+10-18 12:45:53.887 13352 D CMS: Checking connection status
+10-18 12:45:53.896 13352 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 12:45:53.939 13352 D CMS: SSID:"00635"  Rssi(dBm):-48
+10-18 12:45:53.940 13352 D CMS: IP:10.67.247.173
+10-18 12:45:54.071 13352 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 12:45:54.090 13352 D SND: Sending VERIFY_APPLICATION_STATE
+10-18 12:45:54.096 13354 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 12:45:54.106 13354 D WIFI: SSID:"00635"  Signal:-48  IP:-1376304374
+10-18 12:45:54.107 13354 D WIFI: connectStatus: [CONN_STATUS_OK]  SSID: "00635"  Rssi: -48  myIp: 10.67.247.173
+10-18 12:45:54.322 9621 D RCVD: RCMSG_INVALID_TOKEN: Ping response
+10-18 12:45:54.331 13366 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 12:45:54.376 13366 D WIFI: SSID:"00635"  Signal:-48  IP:-1376304374
+10-18 12:45:54.422 13366 D Globals: Broadcasting CONN_STATUS_CHANGED  (API_RESPONSE_INVALID_TOKEN)
+10-18 12:45:54.428 9621 D statusRcvr: Received CONN_STATUS_CHANGED
+10-18 12:45:54.429 9621 D OnFFSiteFragment: Entering setUI()
+10-18 12:45:54.441 9621 D OnFFSiteFragment: Setting connStatusItem status_host
+10-18 12:45:54.442 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 12:45:54.428 13366 D WIFI: connectStatus: [API_RESPONSE_INVALID_TOKEN]  SSID: "00635"  Rssi: -48  myIp: 10.67.247.173
+10-18 12:45:54.592 13352 D CMS: Invalid session token
+10-18 12:45:54.594 13352 D CMS: connectStatus: [API_RESPONSE_INVALID_TOKEN]  SSID: "00635"  Rssi: -48  myIp: 10.67.247.173  error: [Invalid session token]
+10-18 12:55:54.410 9621 D OnFFSiteFragment: onPause()
+10-18 13:14:26.813 9621 D OnFFSiteFragment: onResume()
+10-18 13:14:26.839 9621 D OnFFSiteFragment: onResume - calling setUI()
+10-18 13:14:26.840 9621 D OnFFSiteFragment: Entering setUI()
+10-18 13:14:26.969 9621 D OnFFSiteFragment: Setting connStatusItem status_host
+10-18 13:14:26.972 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 13:14:27.088 9621 D CMS: Received NETWORK_STATE_CHANGED_ACTION
+10-18 13:14:27.100 14002 D CMS: Checking connection status
+10-18 13:14:27.101 14002 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 13:14:27.124 14002 D CMS: SSID:"00635"  Rssi(dBm):-46
+10-18 13:14:27.126 14002 D CMS: IP:10.67.247.173
+10-18 13:14:27.143 14002 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 13:14:27.146 14002 D SND: Sending VERIFY_APPLICATION_STATE
+10-18 13:14:27.149 14009 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 13:14:27.152 14009 D WIFI: SSID:"00635"  Signal:-46  IP:-1376304374
+10-18 13:14:27.153 14009 D WIFI: connectStatus: [API_RESPONSE_INVALID_TOKEN]  SSID: "00635"  Rssi: -46  myIp: 10.67.247.173  error: [Invalid session token]
+10-18 13:14:27.233 14012 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 13:14:27.232 9621 D RCVD: RCMSG_INVALID_TOKEN: Ping response
+10-18 13:14:27.237 14012 D WIFI: SSID:"00635"  Signal:-46  IP:-1376304374
+10-18 13:14:27.238 14012 D WIFI: connectStatus: [API_RESPONSE_INVALID_TOKEN]  SSID: "00635"  Rssi: -46  myIp: 10.67.247.173  error: [Invalid session token]
+10-18 13:14:27.649 14002 D CMS: Invalid session token
+10-18 13:14:27.649 14002 D CMS: connectStatus: [API_RESPONSE_INVALID_TOKEN]  SSID: "00635"  Rssi: -46  myIp: 10.67.247.173  error: [Invalid session token]
+10-18 13:24:29.767 9621 D OnFFSiteFragment: onPause()
+10-18 15:02:55.962 9621 D OnFFSiteFragment: onResume()
+10-18 15:02:55.969 9621 D OnFFSiteFragment: onResume - calling setUI()
+10-18 15:02:55.970 9621 D OnFFSiteFragment: Entering setUI()
+10-18 15:02:55.988 9621 D OnFFSiteFragment: Setting connStatusItem status_host
+10-18 15:02:55.989 9621 D OnFFSiteFragment: Leaving setUI()
+10-18 15:02:56.191 9621 D CMS: Received NETWORK_STATE_CHANGED_ACTION
+10-18 15:02:56.195 15241 D CMS: Checking connection status
+10-18 15:02:56.197 15241 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 15:02:56.200 15241 D CMS: SSID:"00635"  Rssi(dBm):-47
+10-18 15:02:56.201 15241 D CMS: IP:10.67.247.173
+10-18 15:02:56.225 15241 D GetMessageURL: http://10.67.247.160:5500/RavenCompanionApi/RCMessage
+10-18 15:02:56.229 15241 D SND: Sending VERIFY_APPLICATION_STATE
+10-18 15:02:56.236 15243 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 15:02:56.246 15243 D WIFI: SSID:"00635"  Signal:-47  IP:-1376304374
+10-18 15:02:56.247 15243 D WIFI: connectStatus: [API_RESPONSE_INVALID_TOKEN]  SSID: "00635"  Rssi: -47  myIp: 10.67.247.173  error: [Invalid session token]
+10-18 15:02:56.421 9621 D RCVD: RCMSG_INVALID_TOKEN: Ping response
+10-18 15:02:56.436 15261 D LANCE: App SDK Int is >= 28 sending wifiInfo from NetworkUtility
+10-18 15:02:56.453 15261 D WIFI: SSID:"00635"  Signal:-47  IP:-1376304374
+10-18 15:02:56.471 15261 D WIFI: connectStatus: [API_RESPONSE_INVALID_TOKEN]  SSID: "00635"  Rssi: -47  myIp: 10.67.247.173  error: [Invalid session token]
+10-18 15:02:56.732 15241 D CMS: Invalid session token
+10-18 15:02:56.733 15241 D CMS: connectStatus: [API_RESPONSE_INVALID_TOKEN]  SSID: "00635"  Rssi: -47  myIp: 10.67.247.173  error: [Invalid session token]
+10-18 15:12:56.882 9621 D OnFFSiteFragment: onPause()
+10-18 20:12:20.092 9621 D V2-RavenConnectivity: BroadcastReceiver onReceive() - android.net.wifi.STATE_CHANGE
+10-18 20:12:20.106 9621 D V2-RavenConnectivity: "00635"
+10-18 20:12:20.110 9621 D V2-RavenConnectivity: NetInfo.isAvailable - <true>
+10-18 20:12:20.112 9621 D V2-RavenConnectivity: NetInfo.isConnected - <true>
+10-18 20:12:20.113 9621 D V2-RavenConnectivity: Wifi SSID <00635>
+10-18 20:12:20.114 9621 D NetworkUtility: unbinding process to network
+10-18 20:12:20.121 9621 D NetworkUtility: binding process to Wifi network "00635"
+10-18 20:12:20.130 9621 D V2-RavenConnectivity: Broadcast Receiver - Connected
